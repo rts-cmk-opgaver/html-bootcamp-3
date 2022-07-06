@@ -1,6 +1,6 @@
 # HTML Bootcamp #3
 
-I denne opgave skal du arbejde med tilgængelighed (accessability, a11y).
+I denne opgave skal du arbejde med tilgængelighed (accessibility, a11y).
 
 Tilgængelighed er til for at hjælpe brugere med nedsat evne at navigere og bruge din hjemmeside eller applikation. Specifikationen for tilgængelighed hedder `WAI-ARIA` og er en web-standard, der vedligeholdes og udvikles af W3C. Det er blandt andet denne specifikation, som bestemmer at et `img`-tag skal have en `alt`-attribut.
 
