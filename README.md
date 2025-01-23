@@ -16,7 +16,7 @@ WAI-ARIA implementeres i HTML som attributter på tags, for eksempel:
 
 ```html
 <button aria-controls="primaryNavigation" aria-describedby="message-menu-button">Menu</button>
-<nav id="primaryNavigation" role="navigation" aria-hidden="true">
+<nav id="primaryNavigation" aria-hidden="true">
 	<ul>
 		<li><a href="#!/forside">Forside</a></li>
 		<li><a href="#!/produkter">Produkter</a></li>
